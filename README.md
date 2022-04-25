@@ -14,7 +14,7 @@
 *******************************************************************************
 
 # Step 2: Power Modelling and Validation
-1)  Convert data_store.dat to a .txt file
+1)  Convert data_store.dat to a .txt file, fine-grain-CPU-data-parsec.txt
 2)  Go to ModellingAndValidation/
 3)  Ensure the following files are present in the directory:
 	   benchmark_split.txt
